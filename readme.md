@@ -8,7 +8,7 @@
 * I am an open source contributor at [Meshery](//github.com/meshery)
 * I'm a tech blogger, write primarily on [Medium/@devansh42](//devansh42.medium.com) and GeeksForGeeks about my learnings in Data Structure, Algorithms, and Back Ends.
 * I'm an aspiring podcaster at Spotify, @TheShareefCoder.
-* I like to whistle, but not asked me to do. 
+* I like to whistle, but don't ask me to do. 
 
 ![Devansh's Github stats](https://github-readme-stats.vercel.app/api?username=devansh42&show_icons=true&theme=radical)
 
